@@ -7,6 +7,6 @@ function resetPassword() {
         message.innerText = "يرجى إدخال كلمة السر القديمة الصحيحة .";
     } else {
         message.style.color = "green";
-        message.innerText = "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني.";
+        message.innerText = "امزح معك هذا مقلب من طرف المبرمج صابر.";
     }
 }
